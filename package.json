@@ -1,0 +1,19 @@
+{
+  "name": "netsnmp-wrapper",
+  "version": "0.0.1",
+  "description": "snmp function by netsnmp",
+  "main": "netsnmp-wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/byhgj/netsnmp-wrapper.git"
+  },
+  "keywords": [
+    "netsnmp"
+  ],
+  "author": "byhgj",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
